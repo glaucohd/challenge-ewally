@@ -34,8 +34,12 @@ const kLinearGradientCustom = LinearGradient(
   begin: Alignment.centerLeft,
   end: Alignment.centerRight,
   colors: [
-    Color(0xffa71afd),
-    Color(0xff726de1),
-    Color(0xff1afea5),
+    //Color(0xffa71afd),
+    //Color(0xff726de1),
+    //Color(0xff1afea5),
+
+    Color(0xffFC7437),
+    Color(0xffFD3D4F),
+    Color(0xffFF0467),
   ],
 );
